@@ -1,4 +1,4 @@
-reate a simple pagination for a table
+Create a simple pagination for a table
 
 The following has four files.
 
